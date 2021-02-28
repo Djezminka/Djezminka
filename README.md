@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Djezminka
 - 👀 I’m interested in learning computer programming. Currently taking baby steps!
-- 🌱 I’m currently learning CS50 and JavaScript on Freecodecamp.org
+- 🌱 I’m currently learning CS50 and C#
 - 💞️ I’m looking to collaborate on: not really sure at this time...
 
 
